@@ -1,8 +1,8 @@
 /*
  *  knx-logger: 
- *  A simple tool to telegrams sent over a knx bus
+ *  A simple tool to log telegrams sent over a knx bus
  *  Takes a url to a knxd server and an optional path to a
- *  an ETS group address csv file.  
+ *  group address file exported from ETS.  
  */
 
 #include "eibclient.h"
